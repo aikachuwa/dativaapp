@@ -1,0 +1,19 @@
+.bg-cover{
+	background:url(../images/cultural-tourism.jpg);
+	height: 320px;
+	background-size: cover;
+}
+
+h2{
+
+	color: #0000CC;
+	background-color: #2ab27b;
+	font-family: "Abyssinica SIL";
+	font: 100;
+
+}
+
+div{
+
+	background-color: #0000ff;
+}
